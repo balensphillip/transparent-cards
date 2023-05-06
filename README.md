@@ -1,0 +1,1 @@
+This is a simple project that illustrates transparent cards with a beach background.
